@@ -1,5 +1,6 @@
 hola Erika , 
 Continua hasta terminar , sigue aprendiendo y practicando.
 
+esta es la otra version
 
-Su vida y obra maestra
+Faltaba hacerle commit
