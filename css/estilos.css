@@ -1,6 +1,23 @@
 body 
 {
-    color: aqua;
+    color: coral;
     text-align: center;
     font-family: cursive;
+}
+
+#Container
+{
+    width: 70%;
+    height: 50%;
+    margin: 5%;
+    margin-top: 15%;
+    border: mediumorchid;
+    border-style: groove;
+    align-content: center;
+
+}
+
+Container h1
+{
+    font-size: medium;
 }
