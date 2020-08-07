@@ -22,17 +22,6 @@ body
 {
     font-size: medium;
 }
-<<<<<<< HEAD
-#cabecera
-{
-    background-color: moccasin;
-}
-
-#footer
-{
-    background-color: rgb(22, 77, 34);
-    text-decoration-color: cornsilk;
-=======
 
 #container p
 {
@@ -41,13 +30,13 @@ body
 
 #cabecera
 {
+    
     background-color: rgb(191, 139, 196);
     height: 25%;
 }
 
 #logo
 {
-    height: 25%;
+    height: 5%%;
 
->>>>>>> header
 }
