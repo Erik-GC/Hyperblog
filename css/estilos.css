@@ -14,7 +14,7 @@ body
     border: mediumorchid;
     border-style: groove;
     align-content: center;
-    background-color: silver;
+    background-color:black;
 
 }
 
@@ -30,7 +30,7 @@ body
 
 #cabecera
 {
-    background-color: midnightblue;
+    background-color: rgb(191, 139, 196);
     height: 25%;
 }
 
