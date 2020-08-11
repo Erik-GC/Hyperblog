@@ -35,8 +35,13 @@ body
     height: 25%;
 }
 
+
+#footer{
+    background-color: blue;
+}
+
 #logo
 {
-    height: 5%%;
+    height: 35%;
 
 }
